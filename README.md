@@ -20,7 +20,7 @@ The objective of this lab is to reproduce one of the QGIS Tutorials you did prev
 - `spatial_join.png`
 
 ## Getting started with Spyder
-Perform this work in `Spyder`. To access `Spyder` from the `Anaconda prompt`:
+Perform this work in `Spyder`. To access `Spyder` from the `Anaconda prompt`, type:
 ```
 spyder
 ```
